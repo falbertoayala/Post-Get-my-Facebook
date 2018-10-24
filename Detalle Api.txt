@@ -1,0 +1,26 @@
+Funcionamientoy descripcion de la API my Facebook
+
+La direccion : localhost:8090
+
+POST
+
+Crear nuevo Post en la red :
+
+ /v1/post/new
+
+
+Crear un comentario en la red :
+
+v1/post/coment
+
+PUT
+
+Darle me megusta o no a un post :
+
+/v1/post/like
+
+GET
+
+Obtener todas las publicaciones :
+
+/v1/post
